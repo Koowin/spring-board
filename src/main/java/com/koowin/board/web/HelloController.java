@@ -1,4 +1,4 @@
-package com.koowin.board.web.controller;
+package com.koowin.board.web;
 
 import com.koowin.board.web.dto.HelloResponseDto;
 import org.springframework.web.bind.annotation.GetMapping;

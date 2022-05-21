@@ -1,4 +1,4 @@
-package com.koowin.board.controller;
+package com.koowin.board.web;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
